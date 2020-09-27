@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning Python🐍
 - 🔭 I’m currently working on a Voice Assistant project.
-- 👈How to reach me
+- How to reach me👉 
   <a href="mailto:iamunidentifyd0@gmail.com">
-    <img align="left" alt="My email address" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img alt="My email address" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 
 
