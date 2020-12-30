@@ -1,10 +1,21 @@
-# Hi there <img src="https://github.com/Sid-Zer0/Sid-Zer0/blob/master/assets/wave.gif" width="30px"> I am Siddharth Arumugam
+## Hi there <img src="https://github.com/Sid-Zer0/Sid-Zer0/blob/master/assets/wave.gif" width="30px"> I am Siddharth Arumugam
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
-<br />
+<a href="mailto:a.siddharth07@gmail.com">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://t.me/Mr_Night">
+  <img alt="My Telegram" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://github.com/d3vsid-sudo">
+  <img alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/itz_sid__0/">
+  <img alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-## Operating Systems I use:
+### Operating Systems I use:
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -12,7 +23,7 @@
 - 🌱 I’m currently learning Python🐍, C and JavaScript.
 - 😄 Pronouns: He/Him
 
-## 📫 How to reach me: 
+**📫 How to reach me: **
 <a href="mailto:a.siddharth07@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -28,7 +39,7 @@
 
 <br />
 
-## Languages and Tools I use:
+### Languages and Tools I use:
 <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </code>
