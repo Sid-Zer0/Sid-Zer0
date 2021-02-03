@@ -20,14 +20,7 @@
 
 <br />
 
-### Operating Systems I use:
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br />
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-> ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br />
-> ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
-> ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-> ![](https://img.shields.io/badge/Kali_Linux-3933FF?style=for-the-badge&logo=Debian&logoColor=white)
-
+- 🔭 I’m currently working on a Discord moderation bot
 - 🌱 I’m currently learning JavaScript.
 - 😄 Pronouns: He/Him
 
@@ -56,13 +49,7 @@
 > ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 > ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 > ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-> ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br />
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vsid-sudo&show_icons=true&title_color=ffffff&text_color=daf7bc&icon_color=bb2acf&bg_color=191919)
-
-### 💻 Workspace Specs:
-![](https://img.shields.io/badge/Windows-Lenovo_Thinkpad-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/RAM-8_GB-76B900?style=for-the-badge&logo=intel&logoColor=white)
