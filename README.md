@@ -13,9 +13,9 @@
 </a>
 <a href="https://www.instagram.com/itz_sid__0/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
+</a> 
 
-<br />
+<br /> -->
 
 - 🔭 I’m currently working on a Discord moderation bot
 - 🌱 I’m currently learning React.
