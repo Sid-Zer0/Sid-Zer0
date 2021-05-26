@@ -55,3 +55,4 @@
 <br />
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vsid-sudo&show_icons=true&title_color=ffffff&text_color=daf7bc&icon_color=bb2acf&bg_color=191919)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3vsid-sudo&theme=dracula)
