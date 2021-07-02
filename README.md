@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/Sid-Zer0/Sid-Zer0/blob/master/assets/wave.gif" width="30px"> I am Siddharth Arumugam
+## Hi there <img src="./assets/wave.gif" width="30px"> I am Siddharth Arumugam
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
@@ -12,17 +12,16 @@
 
 <div style="height: 25px">
   <a href="mailto:0xmrnight@gmail.com">
-    <img alt="Email" height="" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/0xMrNight">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  </a>
   <a href="https://discord.com/users/713019770949206016">
-    <img alt="Discord" height="" src="https://img.shields.io/badge/Discord-Mr_Night%236181-7289DA?style=for-the-badge&logo=discord" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Mr_Night%236181-7289DA?style=for-the-badge&logo=discord" />
   </a>
   <a href="https://telegram.me/Mr_Night">
-    <img alt="Telegram" height="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
@@ -40,4 +39,4 @@
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnightdev&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnightdev&theme=radical&hide=ruby)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnightdev&theme=radical)
